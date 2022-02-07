@@ -1,2 +1,2 @@
 use northwind;
-select * from categoryID='5';
+select * from CategoryID ='5';
